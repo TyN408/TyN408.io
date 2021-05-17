@@ -23,7 +23,7 @@ body {
 
 a, a.featured {    
     &:hover {
-        background-color: #060042;
+        background-color: #0055A2;
         color: #ffffff;
     }
 }
@@ -42,7 +42,7 @@ a {
     &.featured {
         position: relative;
         background-color: #ffffff;
-        color: #060042;
+        color: #0055A2;
         font-weight: bold;
 
         &:before {
